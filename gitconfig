@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = olivier.pavee@gmail.com
+	name = Olivier Pavee
